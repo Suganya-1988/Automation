@@ -1,7 +1,7 @@
 /**
  * Task 1
  */
-let firstName = 'Suganya'
+let firstName = 'Sugan'
 let companyName = "Gartner"
 let mobileNumer = 1234567890
 let isAutomation = true
